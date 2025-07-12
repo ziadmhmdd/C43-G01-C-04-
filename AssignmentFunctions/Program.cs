@@ -213,7 +213,7 @@ namespace AssignmentFunctions
 
             #endregion
 
-            #region Question 4
+            #region Question4
             //int n = 239475; // 2394.7
 
             //Console.WriteLine(SumOfDigit(n));
