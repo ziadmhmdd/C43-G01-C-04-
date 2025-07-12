@@ -27,7 +27,7 @@ namespace AssignmentFunctions
         #endregion
         #endregion
 
-        #region Question2 Explain the difference between passing (Reference type parameters) 
+        #region Question2 Explain the difference between passing (Reference type parameters)
 
 
         #region 1-Passing By Value
