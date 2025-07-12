@@ -103,7 +103,7 @@ namespace AssignmentFunctions
 
         #endregion
 
-        #region Question 6 Create a function named MinMaxArray, to return the minimum and maximum 
+        #region Question6 Create a function named MinMaxArray, to return the minimum and maximum 
         //static void MinMaxArray(int[] arr, ref int max, ref int min)
         //{
         //    if (arr is null)
