@@ -388,7 +388,7 @@ namespace AssignmentFunctions
             //} 
             #endregion
 
-            #region 17- Write a Program to Print One Dimensional Array in Reverse Order
+            #region 17-Write a Program to Print One Dimensional Array in Reverse Order
 
             //Console.Write("Enter the number of elements in the array: ");
             //int n = int.Parse(Console.ReadLine());
