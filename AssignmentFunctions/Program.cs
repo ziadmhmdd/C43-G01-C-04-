@@ -69,7 +69,7 @@ namespace AssignmentFunctions
 
         #endregion
 
-        #region Question 4 Write a program in C# Sharp to create a function
+        #region Question4 Write a program in C# Sharp to create a function
         //static int SumOfDigit(int n)
         //{
         //    int sum = 0;
