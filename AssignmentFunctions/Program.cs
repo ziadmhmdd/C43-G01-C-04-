@@ -6,7 +6,7 @@ namespace AssignmentFunctions
 {
     internal class Program
     {
-        #region 1-Passing By Value
+        #region 1-Passing By Value_Q1
 
         #region 1-Passing By Value
         //static void Swap(int X, int Y)
@@ -27,7 +27,7 @@ namespace AssignmentFunctions
         #endregion
         #endregion
 
-        #region Question2 Explain the difference between passing (Reference type parameters) 
+        #region Question2 Explain the difference between passing (Reference type parameters)
 
 
         #region 1-Passing By Value
@@ -59,7 +59,7 @@ namespace AssignmentFunctions
         #endregion
 
 
-        #region Question 3 Write a c# Function that accept 4 parameters
+        #region Question3 Write a c# Function that accept 4 parameters
 
         //static void Sum_Sub(int n1, int n2 ,out int sum,out int sub)
         //{
@@ -69,7 +69,7 @@ namespace AssignmentFunctions
 
         #endregion
 
-        #region Question 4 Write a program in C# Sharp to create a function
+        #region Question4 Write a program in C# Sharp to create a function
         //static int SumOfDigit(int n)
         //{
         //    int sum = 0;
@@ -84,7 +84,7 @@ namespace AssignmentFunctions
 
         #endregion
 
-        #region Question 5 Create a function named "IsPrime", 
+        #region Question5 Create a function named "IsPrime", 
         //static bool IsPrime(int n )
         //{
         //    if(n < 2 )
@@ -103,7 +103,7 @@ namespace AssignmentFunctions
 
         #endregion
 
-        #region Question 6 Create a function named MinMaxArray, to return the minimum and maximum 
+        #region Question6 Create a function named MinMaxArray, to return the minimum and maximum 
         //static void MinMaxArray(int[] arr, ref int max, ref int min)
         //{
         //    if (arr is null)
@@ -123,7 +123,7 @@ namespace AssignmentFunctions
 
         #endregion
 
-        #region 7- Create function to calculate the factorial of the number specified as parameter
+        #region 7-Create function to calculate the factorial of the number specified as parameter
 
         //static long factorial(int num)
         //{
@@ -137,7 +137,7 @@ namespace AssignmentFunctions
 
         #endregion
 
-        #region Question 8 Create a function named "ChangeChar" 
+        #region Question8 Create a function named "ChangeChar" 
 
         //static string ChangeChar(string text, int index, char ch)
         //{
@@ -152,7 +152,7 @@ namespace AssignmentFunctions
 
         static void Main()
         {
-            #region Question 1 Value type parameters
+            #region Question 1 Value type parameters_Q1
 
             #region 1-Passing By Value
             //int n1 = 10, n2 = 20;
@@ -171,7 +171,7 @@ namespace AssignmentFunctions
 
             #endregion
 
-            #region Question 2 Reference type parameters
+            #region Question2 Reference type parameters
 
 
             #region 1-Passing By Value
@@ -189,7 +189,7 @@ namespace AssignmentFunctions
 
             #endregion
 
-            #region Question 3
+            #region Question3
             //bool flag1, flag2;
             //int n1, n2, sum, sub;
             //try
@@ -213,19 +213,19 @@ namespace AssignmentFunctions
 
             #endregion
 
-            #region Question 4
+            #region Question4
             //int n = 239475; // 2394.7
 
             //Console.WriteLine(SumOfDigit(n));
             #endregion
 
-            #region Question 5
+            #region Question5
             //int n = 10;
 
             //Console.WriteLine(IsPrime(n));
             #endregion
 
-            #region Question 6
+            #region Question6
             //int[] numbers = { 0, -50, 10, 50, 344, 5 };
             //int max =0,min = 0;
             //MinMaxArray(numbers, ref max, ref min);
@@ -233,7 +233,7 @@ namespace AssignmentFunctions
             //Console.WriteLine(min);
             #endregion
 
-            #region Question 7
+            #region Question7
 
             //Console.Write("Enter a number to find its factorial: ");
             //int num = int.Parse(Console.ReadLine());
@@ -250,7 +250,7 @@ namespace AssignmentFunctions
 
             #endregion
 
-            #region Question 8
+            #region Question8
             //Console.WriteLine("Enter a string: ");
             //string word = Console.ReadLine();
 
@@ -270,7 +270,7 @@ namespace AssignmentFunctions
 
 
 
-            #region 9- . Write a program that prints an identity matrix using for loop,
+            #region 9-. Write a program that prints an identity matrix using for loop,
             //Console.Write("Enter the size of the identity matrix (n): ");
             //int n = int.Parse(Console.ReadLine());
 
@@ -290,7 +290,7 @@ namespace AssignmentFunctions
 
 
 
-            #region 10- Write a program in C# Sharp to find the sum of all elements 
+            #region 10-Write a program in C# Sharp to find the sum of all elements 
 
             //            Console.Write("Enter the number of elements in the array: ");
             //int n = int.Parse(Console.ReadLine());
@@ -310,7 +310,7 @@ namespace AssignmentFunctions
             #endregion
 
 
-            #region 11- - Write a program in C# Sharp to merge two arrays of the same size sorted in ascending order.
+            #region 11- Write a program in C# Sharp to merge two arrays of the same size sorted in ascending order.
 
             //Console.Write("Enter the size of the arrays: ");
             //int n = int.Parse(Console.ReadLine());
@@ -328,7 +328,7 @@ namespace AssignmentFunctions
 
             #endregion
 
-            #region 12- Write a program in C# Sharp to find maximum and minimum element in an array
+            #region 12-Write a program in C# Sharp to find maximum and minimum element in an array
 
             //Console.Write("Enter the number of elements in the array: ");
             //int n = int.Parse(Console.ReadLine());
@@ -344,7 +344,7 @@ namespace AssignmentFunctions
             #endregion
 
 
-            #region 13- Write a program in C# Sharp to find the second largest element in an array.
+            #region 13-Write a program in C# Sharp to find the second largest element in an array.
             //    Console.Write("Enter the number of elements in the array (at least 2): ");
             //int n = int.Parse(Console.ReadLine());
 
@@ -364,7 +364,7 @@ namespace AssignmentFunctions
             //} 
             #endregion
 
-            #region 16- Write a program to create two multidimensional arrays of same size.
+            #region 16-Write a program to create two multidimensional arrays of same size.
 
 
             //Console.Write("Enter number of rows: ");
@@ -388,7 +388,7 @@ namespace AssignmentFunctions
             //} 
             #endregion
 
-            #region 17- Write a Program to Print One Dimensional Array in Reverse Order
+            #region 17-Write a Program to Print One Dimensional Array in Reverse Order
 
             //Console.Write("Enter the number of elements in the array: ");
             //int n = int.Parse(Console.ReadLine());
