@@ -344,7 +344,7 @@ namespace AssignmentFunctions
             #endregion
 
 
-            #region 13- Write a program in C# Sharp to find the second largest element in an array.
+            #region 13-Write a program in C# Sharp to find the second largest element in an array.
             //    Console.Write("Enter the number of elements in the array (at least 2): ");
             //int n = int.Parse(Console.ReadLine());
 
