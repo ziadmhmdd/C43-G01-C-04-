@@ -364,7 +364,7 @@ namespace AssignmentFunctions
             //} 
             #endregion
 
-            #region 16- Write a program to create two multidimensional arrays of same size.
+            #region 16-Write a program to create two multidimensional arrays of same size.
 
 
             //Console.Write("Enter number of rows: ");
