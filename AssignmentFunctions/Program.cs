@@ -270,7 +270,7 @@ namespace AssignmentFunctions
 
 
 
-            #region 9- . Write a program that prints an identity matrix using for loop,
+            #region 9-. Write a program that prints an identity matrix using for loop,
             //Console.Write("Enter the size of the identity matrix (n): ");
             //int n = int.Parse(Console.ReadLine());
 
