@@ -123,7 +123,7 @@ namespace AssignmentFunctions
 
         #endregion
 
-        #region 7- Create function to calculate the factorial of the number specified as parameter
+        #region 7-Create function to calculate the factorial of the number specified as parameter
 
         //static long factorial(int num)
         //{
