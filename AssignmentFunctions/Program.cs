@@ -328,7 +328,7 @@ namespace AssignmentFunctions
 
             #endregion
 
-            #region 12- Write a program in C# Sharp to find maximum and minimum element in an array
+            #region 12-Write a program in C# Sharp to find maximum and minimum element in an array
 
             //Console.Write("Enter the number of elements in the array: ");
             //int n = int.Parse(Console.ReadLine());
