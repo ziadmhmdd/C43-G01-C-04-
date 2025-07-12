@@ -310,7 +310,7 @@ namespace AssignmentFunctions
             #endregion
 
 
-            #region 11- - Write a program in C# Sharp to merge two arrays of the same size sorted in ascending order.
+            #region 11- Write a program in C# Sharp to merge two arrays of the same size sorted in ascending order.
 
             //Console.Write("Enter the size of the arrays: ");
             //int n = int.Parse(Console.ReadLine());
