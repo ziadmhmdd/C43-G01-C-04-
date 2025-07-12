@@ -290,7 +290,7 @@ namespace AssignmentFunctions
 
 
 
-            #region 10- Write a program in C# Sharp to find the sum of all elements 
+            #region 10-Write a program in C# Sharp to find the sum of all elements 
 
             //            Console.Write("Enter the number of elements in the array: ");
             //int n = int.Parse(Console.ReadLine());
