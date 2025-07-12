@@ -250,7 +250,7 @@ namespace AssignmentFunctions
 
             #endregion
 
-            #region Question 8
+            #region Question8
             //Console.WriteLine("Enter a string: ");
             //string word = Console.ReadLine();
 
