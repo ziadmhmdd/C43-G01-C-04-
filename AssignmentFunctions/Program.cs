@@ -84,7 +84,7 @@ namespace AssignmentFunctions
 
         #endregion
 
-        #region Question 5 Create a function named "IsPrime", 
+        #region Question5 Create a function named "IsPrime", 
         //static bool IsPrime(int n )
         //{
         //    if(n < 2 )
