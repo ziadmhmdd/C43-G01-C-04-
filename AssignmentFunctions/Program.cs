@@ -219,7 +219,7 @@ namespace AssignmentFunctions
             //Console.WriteLine(SumOfDigit(n));
             #endregion
 
-            #region Question 5
+            #region Question5
             //int n = 10;
 
             //Console.WriteLine(IsPrime(n));
