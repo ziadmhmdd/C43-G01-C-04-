@@ -59,7 +59,7 @@ namespace AssignmentFunctions
         #endregion
 
 
-        #region Question 3 Write a c# Function that accept 4 parameters
+        #region Question3 Write a c# Function that accept 4 parameters
 
         //static void Sum_Sub(int n1, int n2 ,out int sum,out int sub)
         //{
