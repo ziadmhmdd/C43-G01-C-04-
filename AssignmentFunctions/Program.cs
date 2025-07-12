@@ -225,7 +225,7 @@ namespace AssignmentFunctions
             //Console.WriteLine(IsPrime(n));
             #endregion
 
-            #region Question 6
+            #region Question6
             //int[] numbers = { 0, -50, 10, 50, 344, 5 };
             //int max =0,min = 0;
             //MinMaxArray(numbers, ref max, ref min);
