@@ -233,7 +233,7 @@ namespace AssignmentFunctions
             //Console.WriteLine(min);
             #endregion
 
-            #region Question 7
+            #region Question7
 
             //Console.Write("Enter a number to find its factorial: ");
             //int num = int.Parse(Console.ReadLine());
