@@ -137,7 +137,7 @@ namespace AssignmentFunctions
 
         #endregion
 
-        #region Question 8 Create a function named "ChangeChar" 
+        #region Question8 Create a function named "ChangeChar" 
 
         //static string ChangeChar(string text, int index, char ch)
         //{
